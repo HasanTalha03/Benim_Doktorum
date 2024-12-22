@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hasan\\source\\repos\\Benim_Doktorum\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D47A5523-9619-4139-8FA2-990025FFD982}|Benim_Doktorum\\Benim_Doktorum.csproj|c:\\users\\hasan\\source\\repos\\benim_doktorum\\benim_doktorum\\kullanici_girisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D47A5523-9619-4139-8FA2-990025FFD982}|Benim_Doktorum\\Benim_Doktorum.csproj|solutionrelative:benim_doktorum\\kullanici_girisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47A5523-9619-4139-8FA2-990025FFD982}|Benim_Doktorum\\Benim_Doktorum.csproj|c:\\users\\hasan\\source\\repos\\benim_doktorum\\benim_doktorum\\kullanici_girisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D47A5523-9619-4139-8FA2-990025FFD982}|Benim_Doktorum\\Benim_Doktorum.csproj|solutionrelative:benim_doktorum\\kullanici_girisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47A5523-9619-4139-8FA2-990025FFD982}|Benim_Doktorum\\Benim_Doktorum.csproj|c:\\users\\hasan\\source\\repos\\benim_doktorum\\benim_doktorum\\randevual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D47A5523-9619-4139-8FA2-990025FFD982}|Benim_Doktorum\\Benim_Doktorum.csproj|solutionrelative:benim_doktorum\\randevual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47A5523-9619-4139-8FA2-990025FFD982}|Benim_Doktorum\\Benim_Doktorum.csproj|c:\\users\\hasan\\source\\repos\\benim_doktorum\\benim_doktorum\\kayit_ekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D47A5523-9619-4139-8FA2-990025FFD982}|Benim_Doktorum\\Benim_Doktorum.csproj|solutionrelative:benim_doktorum\\kayit_ekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47A5523-9619-4139-8FA2-990025FFD982}|Benim_Doktorum\\Benim_Doktorum.csproj|c:\\users\\hasan\\source\\repos\\benim_doktorum\\benim_doktorum\\frmrandevular\u0131m.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D47A5523-9619-4139-8FA2-990025FFD982}|Benim_Doktorum\\Benim_Doktorum.csproj|solutionrelative:benim_doktorum\\frmrandevular\u0131m.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47A5523-9619-4139-8FA2-990025FFD982}|Benim_Doktorum\\Benim_Doktorum.csproj|c:\\users\\hasan\\source\\repos\\benim_doktorum\\benim_doktorum\\frmrandevular\u0131m.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D47A5523-9619-4139-8FA2-990025FFD982}|Benim_Doktorum\\Benim_Doktorum.csproj|solutionrelative:benim_doktorum\\frmrandevular\u0131m.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47A5523-9619-4139-8FA2-990025FFD982}|Benim_Doktorum\\Benim_Doktorum.csproj|c:\\users\\hasan\\source\\repos\\benim_doktorum\\benim_doktorum\\doktorrandevuekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D47A5523-9619-4139-8FA2-990025FFD982}|Benim_Doktorum\\Benim_Doktorum.csproj|solutionrelative:benim_doktorum\\doktorrandevuekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47A5523-9619-4139-8FA2-990025FFD982}|Benim_Doktorum\\Benim_Doktorum.csproj|c:\\users\\hasan\\source\\repos\\benim_doktorum\\benim_doktorum\\doktor_kayit_ekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D47A5523-9619-4139-8FA2-990025FFD982}|Benim_Doktorum\\Benim_Doktorum.csproj|solutionrelative:benim_doktorum\\doktor_kayit_ekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47A5523-9619-4139-8FA2-990025FFD982}|Benim_Doktorum\\Benim_Doktorum.csproj|c:\\users\\hasan\\source\\repos\\benim_doktorum\\benim_doktorum\\doktor_girisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D47A5523-9619-4139-8FA2-990025FFD982}|Benim_Doktorum\\Benim_Doktorum.csproj|solutionrelative:benim_doktorum\\doktor_girisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47A5523-9619-4139-8FA2-990025FFD982}|Benim_Doktorum\\Benim_Doktorum.csproj|c:\\users\\hasan\\source\\repos\\benim_doktorum\\benim_doktorum\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D47A5523-9619-4139-8FA2-990025FFD982}|Benim_Doktorum\\Benim_Doktorum.csproj|solutionrelative:benim_doktorum\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Kullanici_Girisi.cs",
+              "DocumentMoniker": "C:\\Users\\hasan\\source\\repos\\Benim_Doktorum\\Benim_Doktorum\\Kullanici_Girisi.cs",
+              "RelativeDocumentMoniker": "Benim_Doktorum\\Kullanici_Girisi.cs",
+              "ToolTip": "C:\\Users\\hasan\\source\\repos\\Benim_Doktorum\\Benim_Doktorum\\Kullanici_Girisi.cs",
+              "RelativeToolTip": "Benim_Doktorum\\Kullanici_Girisi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkBAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T17:19:15.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmRandevular\u0131m.cs",
+              "DocumentMoniker": "C:\\Users\\hasan\\source\\repos\\Benim_Doktorum\\Benim_Doktorum\\FrmRandevular\u0131m.cs",
+              "RelativeDocumentMoniker": "Benim_Doktorum\\FrmRandevular\u0131m.cs",
+              "ToolTip": "C:\\Users\\hasan\\source\\repos\\Benim_Doktorum\\Benim_Doktorum\\FrmRandevular\u0131m.cs",
+              "RelativeToolTip": "Benim_Doktorum\\FrmRandevular\u0131m.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAgwFoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T16:19:53.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RandevuAl.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\hasan\\source\\repos\\Benim_Doktorum\\Benim_Doktorum\\RandevuAl.cs",
+              "RelativeDocumentMoniker": "Benim_Doktorum\\RandevuAl.cs",
+              "ToolTip": "C:\\Users\\hasan\\source\\repos\\Benim_Doktorum\\Benim_Doktorum\\RandevuAl.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Benim_Doktorum\\RandevuAl.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T16:19:36.215Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Kullanici_Girisi.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\hasan\\source\\repos\\Benim_Doktorum\\Benim_Doktorum\\Kullanici_Girisi.cs",
+              "RelativeDocumentMoniker": "Benim_Doktorum\\Kullanici_Girisi.cs",
+              "ToolTip": "C:\\Users\\hasan\\source\\repos\\Benim_Doktorum\\Benim_Doktorum\\Kullanici_Girisi.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Benim_Doktorum\\Kullanici_Girisi.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T16:19:35.254Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Kayit_Ekrani.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\hasan\\source\\repos\\Benim_Doktorum\\Benim_Doktorum\\Kayit_Ekrani.cs",
+              "RelativeDocumentMoniker": "Benim_Doktorum\\Kayit_Ekrani.cs",
+              "ToolTip": "C:\\Users\\hasan\\source\\repos\\Benim_Doktorum\\Benim_Doktorum\\Kayit_Ekrani.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Benim_Doktorum\\Kayit_Ekrani.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T16:19:33.942Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmRandevular\u0131m.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\hasan\\source\\repos\\Benim_Doktorum\\Benim_Doktorum\\FrmRandevular\u0131m.cs",
+              "RelativeDocumentMoniker": "Benim_Doktorum\\FrmRandevular\u0131m.cs",
+              "ToolTip": "C:\\Users\\hasan\\source\\repos\\Benim_Doktorum\\Benim_Doktorum\\FrmRandevular\u0131m.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Benim_Doktorum\\FrmRandevular\u0131m.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T16:19:33.111Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DoktorRandevuEkrani.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\hasan\\source\\repos\\Benim_Doktorum\\Benim_Doktorum\\DoktorRandevuEkrani.cs",
+              "RelativeDocumentMoniker": "Benim_Doktorum\\DoktorRandevuEkrani.cs",
+              "ToolTip": "C:\\Users\\hasan\\source\\repos\\Benim_Doktorum\\Benim_Doktorum\\DoktorRandevuEkrani.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Benim_Doktorum\\DoktorRandevuEkrani.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T16:19:31.931Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Doktor_Kayit_Ekrani.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\hasan\\source\\repos\\Benim_Doktorum\\Benim_Doktorum\\Doktor_Kayit_Ekrani.cs",
+              "RelativeDocumentMoniker": "Benim_Doktorum\\Doktor_Kayit_Ekrani.cs",
+              "ToolTip": "C:\\Users\\hasan\\source\\repos\\Benim_Doktorum\\Benim_Doktorum\\Doktor_Kayit_Ekrani.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Benim_Doktorum\\Doktor_Kayit_Ekrani.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T16:19:30.726Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Doktor_Girisi.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\hasan\\source\\repos\\Benim_Doktorum\\Benim_Doktorum\\Doktor_Girisi.cs",
+              "RelativeDocumentMoniker": "Benim_Doktorum\\Doktor_Girisi.cs",
+              "ToolTip": "C:\\Users\\hasan\\source\\repos\\Benim_Doktorum\\Benim_Doktorum\\Doktor_Girisi.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Benim_Doktorum\\Doktor_Girisi.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T16:19:29.831Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\hasan\\source\\repos\\Benim_Doktorum\\Benim_Doktorum\\Form1.cs",
+              "RelativeDocumentMoniker": "Benim_Doktorum\\Form1.cs",
+              "ToolTip": "C:\\Users\\hasan\\source\\repos\\Benim_Doktorum\\Benim_Doktorum\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Benim_Doktorum\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T16:19:16.22Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
